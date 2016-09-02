@@ -71,8 +71,8 @@ Following is a description of the columns.
 
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-*ActivityName*: Type of activity
-*SubjectID*: Subject identifier
+*ActivityName*: Type of activity  
+*SubjectID*: Subject identifier  
 *AvgTimeBodyAccXYZ  
 AvgTimeGravityAccXYZ  
 AvgTimeBodyAccJerkXYZ  
